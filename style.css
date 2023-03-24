@@ -1,0 +1,38 @@
+#main{
+    background-color: rgb(66, 196, 196);
+    justify-content: space-between;
+    height: 550px;
+    padding: 10px 15px;
+
+}
+#heading{
+    text-align: center;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+}
+
+#left{
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 54%;
+    height: 450px;
+    text-align: center;
+}
+
+#right{
+    background-color: rgb(255, 255, 255);
+    float: right;
+    width: 44%;
+    height: 450px;
+}
+h3{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.output{
+    border: none;
+}
