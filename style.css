@@ -1,5 +1,5 @@
 #main{
-    background-color: rgb(66, 196, 196);
+    background-color: rgb(217, 235, 235);
     justify-content: space-between;
     height: 550px;
     padding: 10px 15px;
@@ -9,7 +9,7 @@
     text-align: center;
 }
 h2{
-    background-color: black;
+    background-color: rgb(70, 61, 61);
     color: aliceblue;
 }
 
@@ -28,7 +28,7 @@ h2{
     height: 450px;
 }
 h3{
-    background-color: black;
+    background-color: rgb(63, 53, 53);
     color: aliceblue;
     text-align: center;
 }
